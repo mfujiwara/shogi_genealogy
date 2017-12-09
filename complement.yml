@@ -1,52 +1,147 @@
 - name: 関根金次郎
   master: 伊藤宗印
+  title: 十三世名人
+  birth: 1868年4月23日
+  death:  1946年3月12日
+  from: 下総国葛飾郡東宝珠花村（現在の千葉県野田市東宝珠花）
 - name: 土居市太郎
   master: 関根金次郎
+  title: 名誉名人
+  birth: 1887年11月20日
+  death: 1973年2月28日
+  from: 愛媛県松山市
 - name: 木見金治郎
   master: 関根金次郎
+  title: 九段
+  birth: 1878年6月24日
+  death: 1951年1月7日
+  from: 岡山県児島郡木見村（現・倉敷市）
 - name: 花田長太郎
   master: 関根金次郎
+  title: 贈九段
+  birth: 1897年7月6日
+  death: 1948年2月28日
+  from: 北海道函館市
 - name: 山本樟郎
   master: 小菅剣之助
+  title: 八段
+  birth: 1890年
+  death: 1964年9月4日
 - name: 小菅剣之助
   master: 伊藤宗印
+  title: 名誉名人
+  birth: 1865年2月19日
+  death: 1944年3月6日
+  from: 愛知県名古屋市
 - name: 小泉雅信
   master: 関根金次郎
+  title: 八段
+  birth: 1900年6月8日
+  death: 1964年9月3日
+  from: 東京都
 - name: 藤内金吾
   master: 阪田三吉
+  title: 八段
+  birth: 1893年3月20日
+  death: 1968年2月11日
+  from: 愛媛県松山市
 - name: 阪田三吉
   master: 小林東伯斎
+  title: 贈名人・王将
+  birth: 1870年7月1日
+  death: 1946年7月23日
+  from: 堺県大鳥郡舳松村字塩穴（現在の大阪府堺市堺区協和町）
 - name: 小林東伯斎
   master: 天野宗歩
+  title: 八段
+  birth: 1811年
+  death: 1898年
+  from: 紀伊国（和歌山県）
 - name: 天野宗歩
   master: 大橋宗桂
+  title: 七段
+  birth: 1816年
+  death: 1859年6月13日
 - name: 飯塚勘一郎
   master: 大崎熊雄
+  title: 八段
+  birth: 1895年1月7日
+  death: 1966年1月10日
+  from: 茨城県
 - name: 大崎熊雄
   master: 関根金次郎
+  title: 九段
+  birth: 1884年
+  death: 1939年4月25日
+  from: 高知県高知市
 - name: 石井秀吉
   master: 川井房郷
+  title: 七段
 - name: 村上真一
   master: 木見金治郎
+  title: 八段
+  birth: 1897年6月16日
+  death: 1956年7月2日
+  from: 広島県呉市
 - name: 平野信助
   master: 大崎熊雄
+  title: 贈七段
+  birth: 1891年5月19日
+  death: 1965年12月12日
+  from: 青森県
 - name: 斉藤銀次郎
   master: 石井秀吉
+  title: 八段
+  birth: 1904年10月7日
+  death: 1979年12月15日
+  from: 東京府
 - name: 野村慶虎
   master: 神田辰之助
+  title: 七段
+  birth: 1899年12月12日
+  death: 1977年1月10日
+  from: 高知県伊野町（現・いの町）
 - name: 宮松関三郎
   master: 井上義雄
+  title: 贈八段
+  birth: 1886年1月14日
+  death: 1947年9月26日
+  from: 愛知県
 - name: 大和久彪
   master: 石井秀吉
+  title: 贈八段
+  birth: 1914年1月23日
+  death: 1956年8月25日
+  from: 千葉県千葉市
 - name: 建部和歌夫
   master: 土居市太郎
+  title: 八段
+  birth: 1909年7月25日
+  death: 1974年9月4日
+  from: 東京都港区
 - name: 井上義雄
   master: 小林東伯斎
+  title: 八段
+  birth: 1865年
+  death: 1920年8月4日
+  from: 山城国（京都府）伏見町字油掛
 - name: 神田辰之助
   master: 阪田三吉
+  title: 贈九段
+  birth: 1893年2月22日
+  death: 1943年9月6日
+  from: 兵庫県武庫郡本庄村字深江（現・神戸市）
 - name: 伊藤宗印
   master: 大橋宗桂
+  title: 十一世名人・伊藤家八代当主
+  birth: 1826年
+  death: 1893年1月6日
 - name: 川井房郷
   master: 伊藤宗印
+  uncertain: true
+  title: 七段
+  from: 愛知県
 - name: 大橋宗桂
-  master: "[*]"
+  title: 八段・大橋家十一代当主
+  birth: 1804年
+  death: 1874年

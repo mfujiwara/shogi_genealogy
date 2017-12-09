@@ -1,7 +1,10 @@
 #!/bin/sh
 
-export PLANTUML_LIMIT_SIZE=16384
-wget http://sourceforge.net/projects/plantuml/files/plantuml.jar/download -O lib/plantuml.jar -q
+export PLANTUML_LIMIT_SIZE=32768
+if [ ! -e lib ]; then
+  mkdir lib
+  wget http://sourceforge.net/projects/plantuml/files/plantuml.jar/download -O lib/plantuml.jar -q
+fi
 rm -rf out
 mkdir out
 echo "@startuml" > out/genealogy.pu
