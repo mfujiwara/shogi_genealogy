@@ -33,7 +33,7 @@ def node_string(doc, th_text)
   nodes.empty? ? nil : nodes.first.xpath('td').text
 end
 
-(1..312).each do |index|
+(1..314).each do |index|
   next if index == 139 # 139は欠番
   url = "https://www.shogi.or.jp/player/pro/#{index}.html"
 
